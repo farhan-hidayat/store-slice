@@ -9584,6 +9584,19 @@ footer p {
   line-height: 24px;
   color: #9191a9;
 }
+.page-dashboard .section-content .product-title {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 25px;
+  color: #c5c5c5;
+}
+.page-dashboard .section-content .product-subtitle {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #0c0d36;
+  margin-bottom: 20px;
+}
 .page-dashboard .section-content .nav-pills .nav-link {
   font-weight: normal;
   font-size: 18px;
@@ -9596,6 +9609,12 @@ footer p {
   color: #0c0d36;
   border-bottom: 2px solid #0c0d36;
   background: none;
+}
+.page-dashboard .section-content .gallery-container .delete-gallery {
+  display: block;
+  position: absolute;
+  top: -10px;
+  right: 0;
 }
 
 .component-categories {
@@ -9700,6 +9719,20 @@ footer p {
   font-size: 18px;
   line-height: 40px;
   color: #0c0d36;
+}
+
+.card-dashboard-product {
+  margin-bottom: 15px;
+}
+.card-dashboard-product .card-body .product-title {
+  font-weight: normal;
+  font-size: 18px;
+  color: #0c0d36;
+}
+.card-dashboard-product .card-body .product-category {
+  font-weight: normal;
+  font-size: 16px;
+  color: #c5c5c5;
 }
 
 .slide-fade-enter-active {
